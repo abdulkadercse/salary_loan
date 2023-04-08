@@ -1,4 +1,4 @@
-# mobile_financing_app_ui
+# Salary Loan
 
 A new Flutter project.
 
